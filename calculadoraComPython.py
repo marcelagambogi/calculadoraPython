@@ -1,6 +1,6 @@
 # Nome: Marcela de Mendonca
-# Projeto: Calculadora simples com Phyton
-# Objetivo: Entregar uma calculadora que faça operações com adição, subtração, multiplicação e divisão.
+# Projeto: Calculadora simples com Python
+# Objetivo: Entregar uma calculadora simples que faça operações com adição, subtração, multiplicação e divisão.
 
 
 from colorama import init, Fore, Back, Style
